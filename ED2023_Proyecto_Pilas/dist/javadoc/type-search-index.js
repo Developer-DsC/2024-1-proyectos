@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"algoritmos","l":"AlgoritmosPila"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"tadPila","l":"NodoPila"},{"p":"tadPila","l":"Pila"},{"p":"Formularios","l":"Pilas"},{"p":"tadPila","l":"PilaVacia"},{"p":"<Unnamed>","l":"PilaVisual"},{"p":"tadPila","l":"TadPila"}];updateSearchResults();

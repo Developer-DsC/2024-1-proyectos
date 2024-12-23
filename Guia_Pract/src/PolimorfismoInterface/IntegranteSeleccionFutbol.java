@@ -1,0 +1,19 @@
+package PolimorfismoInterface;
+
+/**
+ *
+ * @author Dalton
+ */
+
+public interface IntegranteSeleccionFutbol {
+
+    void concentrarse();
+
+    void viajar();
+
+    void entrenar();
+
+    void jugarPartido();
+    
+    void imprimir();
+}
